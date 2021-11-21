@@ -51,7 +51,7 @@ function PickScreen(api, pos2D) {
   
     var version = '1.10.3'; // choose model
   
-    var urlid = '08d42a018aa84eaebf31ff95bdf419a3'; // make sure
+    var urlid = '18274b2d31cb4c58aba07c5f9c6fa950'; // make sure
     // https://static.sketchfab.com/api/sketchfab-viewer-1.3.2.js is loaded
   
     if (!window.Sketchfab) {
